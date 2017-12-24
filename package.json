@@ -1,0 +1,25 @@
+{
+  "name": "cipanas",
+  "version": "1.0.0",
+  "description": "codeigniter hot boilerplate, codename: cipanas",
+  "main": "index.php",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munggaran/cipanas.git"
+  },
+  "keywords": [
+    "codeigniter;boilterplate",
+    "starter"
+  ],
+  "author": "Eldi Munggaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munggaran/cipanas/issues"
+  },
+  "homepage": "https://github.com/munggaran/cipanas#readme"
+}

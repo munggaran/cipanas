@@ -1,0 +1,21 @@
+{
+  "name": "cipanas",
+  "description": "codeigniter hot boilerplate, codename: cipanas",
+  "main": "index.php",
+  "authors": [
+    "Eldi Munggaran"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "codeigniter;boilterplate",
+    "starter"
+  ],
+  "homepage": "www.munggaran.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
